@@ -1,0 +1,16 @@
+please read and follow.
+download python and install in in you pc.
+download pycham or VScode and install in your pc.
+Extract Twitter_bot.rar file and open twitter_bot.py file with pycharm or VScode. 
+install the the requirement.txt file 
+put accounts on very last of the code below is the sample. 
+accounts = [
+    ('account1', 'password1'),
+    ('account2', 'password2'),
+]
+
+after writing all accounts run the code.
+
+You can add more accounts too with same format.
+
+You can also change the ChatGPT API's just on top of the code.
